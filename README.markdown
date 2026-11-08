@@ -12,6 +12,17 @@ SoundHub is a lightweight desktop application for listening to your local music 
 
 ![SoundHub Interface](image/screenshot.png)
 
+## Why SoundHub?
+
+You might notice that the interface is inspired by modern streaming services like Spotify. We believe that a familiar UI is an intuitive UI. However, SoundHub was built to solve a different set of problems:
+
+- **No Subscriptions:** Your music, your rules. No monthly fees, no premium tiers.
+- **100% Offline:** No internet connection required. Listen to your local files anytime, anywhere.
+- **No Bloatware:** Modern music apps are overloaded with podcasts, audiobooks, social features, and endless menus. SoundHub keeps it simple.
+- **Zero Algorithms:** No "Recommended for you", no forced playlists. Just your library.
+- **Intent-Based Listening:** Open the app, search for the track you want to hear *right now*, and play it.
+- **Lightning Fast:** Built with C++ and Qt 6, the app launches instantly and runs smoothly.
+
 ## Features
 
 - Pause and resume playback
