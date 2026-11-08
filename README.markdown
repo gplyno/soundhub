@@ -10,7 +10,7 @@ SoundHub is a lightweight desktop application for listening to your local music 
 
 ## Screenshots
 
-![SoundHub Interface](assets/screenshot.png)
+![SoundHub Interface](image/screenshot.png)
 
 ## Features
 
