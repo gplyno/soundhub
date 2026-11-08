@@ -25,6 +25,6 @@ SoundHub is a lightweight desktop application for listening to your local music 
 
 ## Credits
 
-SoundHub was developed by **StarleLab** in **2026**.
+SoundHub was developed by **starlelab** in **2026**.
 
 Website: [https://gplyno.github.io/starlelab/](https://gplyno.github.io/starlelab/)
